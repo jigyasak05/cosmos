@@ -1,5 +1,3 @@
-// Test 
-
 # Cosmos
 
 > [Join our discussion now](https://discourse.opengenus.org/) 
